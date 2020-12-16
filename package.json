@@ -1,0 +1,21 @@
+{
+  "name": "ps5-slack-notifier",
+  "version": "1.0.0",
+  "description": "Playstation 5 scraper that scrapes dutch websites if ps5 is available and sends slack notification",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Playstation",
+    "5",
+    "Slack",
+    "Notifications"
+  ],
+  "author": "Maurits Meester <maurits@e-mmer.nl> (e-mmer.nl)",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}

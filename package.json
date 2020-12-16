@@ -2,6 +2,7 @@
   "name": "ps5-slack-notifier",
   "version": "1.0.0",
   "description": "Playstation 5 scraper that scrapes dutch websites if ps5 is available and sends slack notification",
+  "repository": "https://github.com/mmeester/ps5-slack-notifier",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
